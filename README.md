@@ -13,9 +13,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=bentran1vn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/?username=bentran1vn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/?id=bentran1vn&icon=0&color=0)](https://visitcount.itsvg.in)
 
